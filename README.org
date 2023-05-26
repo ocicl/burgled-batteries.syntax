@@ -1,0 +1,9 @@
+* burgled-batteries.syntax
+
+Embedded Python syntax for burgled-batteries
+
+|---------+--------------------------------------------------------------|
+| source  | git:https://github.com/mmontone/burgled-batteries.syntax.git |
+| commit  | 8879b21                                                      |
+| systems | burgled-batteries.syntax                                     |
+|---------+--------------------------------------------------------------|
