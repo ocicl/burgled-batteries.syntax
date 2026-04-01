@@ -7,3 +7,4 @@ Embedded Python syntax for burgled-batteries
 | commit  | 8879b21                                                      |
 | systems | burgled-batteries.syntax                                     |
 |---------+--------------------------------------------------------------|
+ 
